@@ -2,6 +2,7 @@
 Atualmente estou aprendendo:
 - ![image](https://user-images.githubusercontent.com/62913130/130995061-ffb98935-1b7b-4d46-b16e-b5bf1afac37e.png)
 - ![image](https://user-images.githubusercontent.com/62913130/130993054-58c02f83-a082-43f2-b191-036ca5bf8732.png)
+- ![image]https://camo.githubusercontent.com/026c430f62ee20e3b260c2bcce08c6b2a28afa82e0cc6fbffdaba3df82f7d56f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176617363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937
 
 <div>
   <a href="https://github.com/BrunoEijiMine">
