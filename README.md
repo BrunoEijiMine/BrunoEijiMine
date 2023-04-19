@@ -1,8 +1,9 @@
 ## Bem Vindo ao meu perfil!
 Atualmente estou aprendendo:
 - ![image](https://user-images.githubusercontent.com/62913130/130995061-ffb98935-1b7b-4d46-b16e-b5bf1afac37e.png)
-- ![image](https://user-images.githubusercontent.com/62913130/130993054-58c02f83-a082-43f2-b191-036ca5bf8732.png)
+- ![image](https://img.shields.io/badge/CSS3-4988F5?style=for-the-badge&logo=css3&logoColor=white)
 - ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![image](https://img.shields.io/badge/BOOTSTRAP-562EF5?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
 
 <div>
   <a href="https://github.com/BrunoEijiMine">
@@ -13,10 +14,11 @@ Atualmente estou aprendendo:
    ##
 
   <div> 
-  <a href="https://instagram.com/brunoeiji1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-eiji-1b47b1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/brunoeiji1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                            
+    badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-eiji-1b47b1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
+    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/BrunoEijiMine/BrunoEijiMine/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-
