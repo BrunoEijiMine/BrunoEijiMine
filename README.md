@@ -9,7 +9,7 @@
 
 ##
 
-<h2>Skills:</h2>
+<h2>Habilidades:</h2>
 
  ![image](https://user-images.githubusercontent.com/62913130/130995061-ffb98935-1b7b-4d46-b16e-b5bf1afac37e.png)
  ![image](https://img.shields.io/badge/CSS3-4988F5?style=for-the-badge&logo=css3&logoColor=white)
