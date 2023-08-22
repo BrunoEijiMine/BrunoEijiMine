@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3F5FF0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Bruno+Eiji;Tenho+21+Anos+;+Graduando+Sistemas+De+Informação;Seja+Bem+Vindo!+)](https://git.io/typing-svg)
 
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEijiMine&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak Stats">
+<div align="center">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEijiMine&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak Stats"></p>
 </div>
 
 
