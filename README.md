@@ -17,7 +17,7 @@
  ![image](https://img.shields.io/badge/CSS3-4988F5?style=for-the-badge&logo=css3&logoColor=white)
  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![image](https://img.shields.io/badge/BOOTSTRAP-562EF5?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
-
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   
  <h2>Redes Sociais.</h2>
   
