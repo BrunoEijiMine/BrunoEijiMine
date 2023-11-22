@@ -4,9 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3F5FF0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Bruno+Eiji;Tenho+21+Anos+;+Graduando+Sistemas+De+Informação;Seja+Bem+Vindo!+)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEijiMine&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak Stats"></p>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEijiMine&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEijiMine&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEijiMine&theme=dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEijiMine&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoEijiMine&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 
 ##
