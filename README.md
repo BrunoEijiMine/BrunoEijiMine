@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F5FF0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3F5FF0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Bruno+Eiji;Tenho+21+Anos+;+Graduando+Sistemas+De+Informação;Seja+Bem+Vindo!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3F5FF0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Bruno+Eiji;Tenho+22+Anos+;+Graduado+Sistemas+De+Informação;Seja+Bem+Vindo!+)](https://git.io/typing-svg)
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEijiMine&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEijiMine&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEijiMine&theme=dark) |
