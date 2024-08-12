@@ -1,18 +1,18 @@
 <div id="top"></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=113953&height=120&section=header"/>
 
+ <h2 align="center">
+     Welcome to profile! 👋
+ </h2>
  <h3 align="center">
-          Welcome to profile! 👋
-      </h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=bbd4ce&lines=Front-end+Developer;+UI/UX;Design+Graphic;☕;" />
+</h3>
 <div align="center">
   <table align="center">
     <tr border="none">
       <td width="50%" align="left">
 
-  <h3>BRUNO EIJI</h3>
-        
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=b6ccc7&width=500&lines=Front-end+Developer;UI/UX;Design+Graphic)](https://git.io/typing-svg)
-   
+  <h3>BRUNO EIJI</h3>   
   
   ![](https://komarev.com/ghpvc/?username=BrunoEijiMine&color=2f719c&label=Profile+Views&style=for-the-badge)
   
