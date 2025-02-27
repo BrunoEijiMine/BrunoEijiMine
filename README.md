@@ -9,7 +9,7 @@
 <div align="center">
     <table align="center">
         <tr border="none">
-            <td width="50%" align="left">
+            <td width="50%" align="center">
                 <h3>BRUNO EIJI</h3>
                 <img src="https://komarev.com/ghpvc/?username=BrunoEijiMine&color=2f719c&label=Profile+Views&style=for-the-badge" />
             </td>
