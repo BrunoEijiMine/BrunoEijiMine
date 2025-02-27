@@ -14,7 +14,7 @@
                 <img src="https://komarev.com/ghpvc/?username=BrunoEijiMine&color=2f719c&label=Profile+Views&style=for-the-badge" />
             </td>
             <td width="50%" align="center">
-                <img align="center" alt="Coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl4MjZ2dGs0ajZudTVrOGhxczl5Mmxjb2ZiYzBpcnFrMXdzczRndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBAreNGk5DapO/giphy.gif" />
+                <img align="center" alt="Coding" width="450" src="https://i.giphy.com/TZxCihyNQR3XO.webp" />
             </td>
         </tr>
     </table>
