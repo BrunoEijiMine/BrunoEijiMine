@@ -3,7 +3,7 @@
 
 <h2 align="center">Welcome to profile! 👋</h2>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=bbd4ce&lines=Front-end+Developer;+UI/UX;Design+Graphic;☕;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Front-end+Developer;+UI/UX;Design+Graphic;☕;" />
 </h3>
 
 <div align="center">
