@@ -1,5 +1,5 @@
 <div id="top"></div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0120E6&height=150&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header"/>
 
 <h2 align="center">Welcome to profile! 👋</h2>
 <h3 align="center">
@@ -42,11 +42,11 @@
 
 ## 📈 Github stats
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEijiMine&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEijiMine&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEijiMine&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEijiMine&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEijiMine&theme=react&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&username=BrunoEijiMine&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEijiMine&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEijiMine&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEijiMine&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEijiMine&theme=dark&utcOffset=8" />
 </div>
 
 ## 🏆 Github trophys
@@ -59,4 +59,4 @@
 ## 🤝🏼 Contribution
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoEijiMine&theme=react-dark" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0120E6&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=footer"/>
