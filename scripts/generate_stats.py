@@ -19,7 +19,7 @@ BG = "#0d1117"
 BORDER = "#30363d"
 TEXT = "#e6edf3"
 MUTED = "#8b949e"
-ACCENT = "#3d5a80"
+ACCENT = "#6e7681"
 
 QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {

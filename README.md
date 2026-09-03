@@ -2,11 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header"/>
 
 <h1 align="center">Bruno Eiji</h1>
-<p align="center"><samp>developer analyst · UI/UX · design systems</samp></p>
-
 <blockquote align="center">
-Front-end developer who cares about how things look as much as how<br/>
-they work — usually somewhere between a design file and a React tree.
+<samp>developer analyst · UI/UX · design systems</samp>
 </blockquote>
 
 <img src="hd-stack.svg" width="100%" alt="technology stack" />
