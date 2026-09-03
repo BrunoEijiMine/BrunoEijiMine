@@ -1,36 +1,24 @@
 <div id="top"></div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header"/>
 
-<h2 align="center">Welcome to profile! 👋</h2>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Front-end+Developer;+UI/UX;Design+Graphic;☕;" />
-</h3>
+<h1 align="center">Bruno Eiji</h1>
+<p align="center"><samp>front-end · UI/UX · design systems</samp></p>
 
-<div align="center">
-    <table align="center">
-        <tr border="none">
-            <td width="50%" align="center">
-                <h3>BRUNO EIJI</h3>
-                <img src="https://komarev.com/ghpvc/?username=BrunoEijiMine&color=2f719c&label=Profile+Views&style=for-the-badge" />
-            </td>
-            <td width="50%" align="center">
-                <img align="center" alt="Coding" width="450" src="https://i.giphy.com/TZxCihyNQR3XO.webp" />
-            </td>
-        </tr>
-    </table>
-</div>
+<blockquote align="center">
+Front-end developer who cares about how things look as much as how<br/>
+they work — usually somewhere between a design file and a React tree.
+</blockquote>
 
-## 👨‍💻 Technology Stack
+<img src="hd-stack.svg" width="100%" alt="technology stack" />
 
-<div>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,github,html,js,jquery,ps,react,styledcomponents,xd,figma" />
-        </a>
-    </p>
-</div>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,github,html,js,jquery,ps,react,styledcomponents,xd" />
+    </a>
+</p>
 
-## 📱 Connect with me
+<img src="hd-connect.svg" width="100%" alt="connect" />
+
 <p align="center">
     <a href="https://www.instagram.com/brunoeiji1/">
         <img src="https://skillicons.dev/icons?i=instagram" />
@@ -40,23 +28,20 @@
     </a>
 </p>
 
-## 📈 Github stats
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?&username=BrunoEijiMine&theme=dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEijiMine&theme=dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEijiMine&theme=dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEijiMine&theme=dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEijiMine&theme=dark&utcOffset=8" />
-</div>
+<img src="hd-activity.svg" width="100%" alt="activity" />
 
-## 🏆 Github trophys
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=BrunoEijiMine&theme=gitdimmed&row=2&column=3" alt="GitHub Trophy" />
-    </a>
-</div>
+<p align="center">
+    <img src="stats.svg" width="100%" alt="contribution stats" /><br/>
+    <img src="streak.svg" width="100%" alt="contribution streaks" /><br/>
+    <img src="langs.svg" width="100%" alt="top languages" />
+</p>
 
-## 🤝🏼 Contribution
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoEijiMine&theme=react-dark" />
+<img src="hd-year.svg" width="100%" alt="this year" />
+
+<p align="center">
+    <img src="year.svg" width="100%" alt="contributions, one character per day" />
+</p>
+
+<p align="right"><a href="#top"><samp>back to top</samp></a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=footer"/>
