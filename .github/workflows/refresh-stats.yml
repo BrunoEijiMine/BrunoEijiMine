@@ -19,7 +19,7 @@ jobs:
           GH_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/generate_stats.py
       - run: |
-          FILES="stats.svg streak.svg langs.svg year.svg hd-*.svg"
+          FILES="stats.svg streak.svg hd-*.svg"
           [ -z "$(git status --porcelain -- $FILES)" ] && exit 0
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
