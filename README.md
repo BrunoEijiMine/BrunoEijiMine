@@ -9,15 +9,15 @@
 <img src="hd-stack.svg" width="100%" alt="technology stack" />
 
 <p align="center">
-    <samp>Bootstrap · CSS · Figma · GitHub · HTML · JavaScript · jQuery · Photoshop · React · Styled Components · Adobe XD</samp>
+    <samp>Bootstrap · CSS · Figma · GitHub · HTML · JavaScript · jQuery · MySQL · Photoshop · PHP · React · React Native · Styled Components · Adobe XD</samp>
 </p>
 
 <img src="hd-connect.svg" width="100%" alt="connect" />
 
 <p align="center">
-    <a href="https://www.instagram.com/brunoeiji1/"><samp>Instagram ↗</samp></a>
+    <a href="https://www.instagram.com/brunoeiji1/"><img src="badge-instagram.svg" alt="Instagram" /></a>
     &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/bruno-eiji-1b47b1206/"><samp>LinkedIn ↗</samp></a>
+    <a href="https://www.linkedin.com/in/bruno-eiji-1b47b1206/"><img src="badge-linkedin.svg" alt="LinkedIn" /></a>
 </p>
 
 <img src="hd-activity.svg" width="100%" alt="activity" />

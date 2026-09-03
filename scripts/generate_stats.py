@@ -128,6 +128,16 @@ def heading(name, label):
     write(name, plain(width, height, body))
 
 
+def badge(name, text, color=TEXT):
+    fs = 13
+    letter_spacing = 1
+    char_w = fs * 0.6 + letter_spacing
+    width = round(len(text) * char_w) + 6
+    height = 20
+    body = f'<text x="2" y="15" font-size="{fs}" letter-spacing="{letter_spacing}" fill="{color}">{esc(text)}</text>'
+    write(name, plain(width, height, body))
+
+
 def stats_svg(calendar):
     width, height = 700, 170
     total = calendar["totalContributions"]
@@ -233,6 +243,11 @@ def main():
         ("hd-activity.svg", "activity"),
     ):
         heading(name, label)
+    for name, text in (
+        ("badge-instagram.svg", "Instagram ↗"),
+        ("badge-linkedin.svg", "LinkedIn ↗"),
+    ):
+        badge(name, text)
     stats_svg(calendar)
     streak_svg(calendar)
 
